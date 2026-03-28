@@ -26,6 +26,11 @@ Initialisation du Composant Panier
 
 Namespace : P2FixAnAppDotNetCode.Components
 
+
+10. Lien Google Drive vers l’exécutable
+https://drive.google.com/file/d/1skmSGCHaN4PEAFyyoR752ZESGdsX8L7f/view?usp=sharing
+
+
 Classe : CartSummaryViewComponent
 
 Méthode : CartSummaryViewComponent (Constructeur)
