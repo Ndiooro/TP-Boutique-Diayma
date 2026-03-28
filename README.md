@@ -26,11 +26,6 @@ Initialisation du Composant Panier
 
 Namespace : P2FixAnAppDotNetCode.Components
 
-
-10. Lien Google Drive vers l’exécutable
-https://drive.google.com/file/d/1skmSGCHaN4PEAFyyoR752ZESGdsX8L7f/view?usp=sharing
-
-
 Classe : CartSummaryViewComponent
 
 Méthode : CartSummaryViewComponent (Constructeur)
@@ -38,3 +33,8 @@ Méthode : CartSummaryViewComponent (Constructeur)
 
 Mode de débogage choisi : Pas à pas principal (Step Over - F10).
 Justification : Ce mode permet de suivre le fil conducteur de notre propre code (notre logique métier) sans s'attarder sur le code source externe de Microsoft (indiqué comme [External Code] dans la pile d'appels).
+
+
+
+10. Lien Google Drive vers l’exécutable
+https://drive.google.com/file/d/1skmSGCHaN4PEAFyyoR752ZESGdsX8L7f/view?usp=sharing
