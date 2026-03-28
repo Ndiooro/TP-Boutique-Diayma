@@ -49,9 +49,12 @@ namespace P2FixAnAppDotNetCode
                     new CultureInfo("en"),
                     new CultureInfo("fr-FR"),
                     new CultureInfo("fr"),
+                    new CultureInfo("wo"),
+                    new CultureInfo("es-ES"),
+                    new CultureInfo("es"),
                 };
 
-                opts.DefaultRequestCulture = new RequestCulture("en");
+                opts.DefaultRequestCulture = new RequestCulture("fr");
                 // Formatting numbers, dates, etc.
                 opts.SupportedCultures = supportedCultures;
                 // UI strings that we have localized.

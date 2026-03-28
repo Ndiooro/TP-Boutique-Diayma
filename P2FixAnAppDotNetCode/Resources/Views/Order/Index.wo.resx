@@ -117,19 +117,37 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="ChangeLanguage" xml:space="preserve">
-    <value>Select</value>
+  <data name="Adress" xml:space="preserve">
+    <value>Dekkuwaay</value>
   </data>
-  <data name="Language" xml:space="preserve">
-    <value>Lakk</value>
+  <data name="City" xml:space="preserve">
+    <value>Dëkk taax</value>
   </data>
-  <data name="LanguageEnglish" xml:space="preserve">
-    <value>Angalé</value>
+  <data name="CompleteOrder" xml:space="preserve">
+    <value>Pareel sa jeundd</value>
   </data>
-  <data name="LanguageFrench" xml:space="preserve">
-    <value>Faranse</value>
+  <data name="Country" xml:space="preserve">
+    <value>Dekk</value>
   </data>
-  <data name="LanguageWolof" xml:space="preserve">
-    <value>Wolof</value>
+  <data name="EnterDetails" xml:space="preserve">
+    <value>Dugelel liniou fi soxla ngir niou yonei la linga jeundd!</value>
+  </data>
+  <data name="Location" xml:space="preserve">
+    <value>Gox</value>
+  </data>
+  <data name="Name" xml:space="preserve">
+    <value>Tur</value>
+  </data>
+  <data name="OrderTitle" xml:space="preserve">
+    <value>Xolaatal bu baax</value>
+  </data>
+  <data name="ShipSoon" xml:space="preserve">
+    <value>Dinagn la yonei say jeundd si lu gaaw.</value>
+  </data>
+  <data name="ShipTo" xml:space="preserve">
+    <value>Yoneisi</value>
+  </data>
+  <data name="Zip" xml:space="preserve">
+    <value>Zip</value>
   </data>
 </root>
